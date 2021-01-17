@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'ClearSans-Regular', sans-serif;
+  src: url("../fonts/ClearSans-Regular.woff") format('woff'),
+       url("../fonts/ClearSans-Regular.woff2") format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SegoeUI-Regular', sans-serif;
+  src: url("../fonts/SegoeUI-Regular.woff") format('woff'),
+       url("../fonts/SegoeUI-Regular.woff2") format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SegoeUI-Bold', sans-serif;
+  src: url("../fonts/SegoeUI-Bold.woff") format('woff'),
+       url("../fonts/SegoeUI-Bold.woff2") format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SegoeUI-Black", sans-serif;
+  src: url("//db.onlinewebfonts.com/t/c5ac4dbbf079d3039afafa294b9e07b6.woff2") format("woff2"),
+       url("//db.onlinewebfonts.com/t/c5ac4dbbf079d3039afafa294b9e07b6.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
