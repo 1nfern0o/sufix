@@ -1,3 +1,6 @@
+@media screen and (max-width: 1840px) {
+  #toTop { right:5%; }
+}
 @media screen and (max-width: 1700px) {
   .submenu-header__item {
     &-2 {
@@ -9,6 +12,11 @@
   }
 }
 
+@media screen and (max-width: 1630px) {
+  #toTop { right: 2%; }
+}
+@media screen and (max-width: 1520px) {
+}
 @media screen and (max-width: 1400px) {
   .submenu-header__item {
     &-2 {

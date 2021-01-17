@@ -644,6 +644,20 @@ $md4: 479.98;
 
 //</Footer>============================================================================
 
+#toTop {
+  width:43px;
+  height: 43px;
+  position:fixed;
+  bottom:50px;
+  right:10%;
+  cursor:pointer;
+  display:none;
+  border-radius: 3px;
+  background: url("../img/icons/arrow-top.png") center no-repeat #e6362c;
+  &:hover {
+    background-color: #b22a22;
+  }
+}
 
 
 
